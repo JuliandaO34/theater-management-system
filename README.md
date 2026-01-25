@@ -93,12 +93,12 @@ streamlit run app.py
 
 **Funcionalidades principales**
 
-✔ Cargar Excel y enviar datos a la API
+Cargar Excel y enviar datos a la API
 
 Desde Streamlit puedes seleccionar un archivo .xlsx con diversas hojas y cargarlo directamente en la BD mediante solicitudes POST hacia FastAPI.
 
 
-✔ CRUD completo para:
+ CRUD completo para:
 
 Actores
 
@@ -113,7 +113,7 @@ Entradas
 Asistencias
 
 
-✔ Consultas avanzadas
+ Consultas avanzadas
 
 Ejemplos:
 
@@ -132,7 +132,7 @@ Total de asistencia
 Total de entradas por función
 
 
-✔ Visualización en Streamlit
+ Visualización en Streamlit
 
 Tablas
 
